@@ -1,0 +1,1 @@
+ py -m PyInstaller --hidden-import win32timezone --hidden-import requests --hidden-import configparser --hidden-import pyproj main.py
